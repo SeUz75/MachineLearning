@@ -6,3 +6,5 @@ SOSOOSOSO this was my first project in Erasmus in the University of Coimbra, cla
 
 I uploaded this so in the future I can rebuild a new deep neural network better than the previous one.
 Thats why I have the original. Dont mind the 2nd project in the Original file. I might upload it seperately because its too much GB and cant upload it.
+
+So also right now im focusing more on ML so in this rep i will upload everything !
